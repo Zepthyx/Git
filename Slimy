@@ -1,0 +1,150 @@
+local args1 = {
+    [1] = workspace:WaitForChild("slimes"):WaitForChild("Balloon1"),
+    [2] = 12000
+}
+
+local args2 = {
+    [1] = workspace:WaitForChild("slimes"):WaitForChild("Balloon2"),
+    [2] = 12000
+}
+
+local args3 = {
+    [1] = workspace:WaitForChild("slimes"):WaitForChild("Balloon3"),
+    [2] = 12000
+}
+
+local args4 = {
+    [1] = workspace:WaitForChild("slimes"):WaitForChild("Rocket1"),
+    [2] = 12000
+}
+
+local args5 = {
+    [1] = workspace:WaitForChild("slimes"):WaitForChild("Rocket2"),
+    [2] = 12000
+}
+
+local args6 = {
+    [1] = workspace:WaitForChild("slimes"):WaitForChild("Rocket3"),
+    [2] = 12000
+}
+
+local args7 = {
+    [1] = workspace:WaitForChild("slimes"):WaitForChild("Ice1"),
+    [2] = 12000
+}
+
+local args8 = {
+    [1] = workspace:WaitForChild("slimes"):WaitForChild("Ice2"),
+    [2] = 12000
+}
+
+local args9 = {
+    [1] = workspace:WaitForChild("slimes"):WaitForChild("Ice3"),
+    [2] = 12000
+}
+
+local args10 = {
+    [1] = workspace:WaitForChild("slimes"):WaitForChild("Acid1"),
+    [2] = 12000
+}
+
+local args11 = {
+    [1] = workspace:WaitForChild("slimes"):WaitForChild("Acid2"),
+    [2] = 12000
+}
+
+local args12 = {
+    [1] = workspace:WaitForChild("slimes"):WaitForChild("Acid3"),
+    [2] = 12000
+}
+
+local args13 = {
+    [1] = workspace:WaitForChild("slimes"):WaitForChild("Fire1"),
+    [2] = 12000
+}
+
+local args14 = {
+    [1] = workspace:WaitForChild("slimes"):WaitForChild("Fire2"),
+    [2] = 12000
+}
+
+local args15 = {
+    [1] = workspace:WaitForChild("slimes"):WaitForChild("Fire3"),
+    [2] = 12000
+}
+
+local args16 = {
+    [1] = workspace:WaitForChild("slimes"):WaitForChild("Normal1"),
+    [2] = 12000
+}
+
+local args17 = {
+    [1] = workspace:WaitForChild("slimes"):WaitForChild("Normal2"),
+    [2] = 12000
+}
+
+local args18 = {
+    [1] = workspace:WaitForChild("slimes"):WaitForChild("Normal3"),
+    [2] = 12000
+}
+
+local args19 = {
+    [1] = workspace:WaitForChild("slimes"):WaitForChild("Boss"),
+    [2] = 12000
+}
+
+local args20 = {
+    [1] = workspace:WaitForChild("slimes"):WaitForChild("Rocket"),
+    [2] = 12000
+}
+
+local args21 = {
+    [1] = workspace:WaitForChild("slimes"):WaitForChild("Balloon"),
+    [2] = 12000
+}
+
+local args22 = {
+    [1] = workspace:WaitForChild("slimes"):WaitForChild("Ice"),
+    [2] = 12000
+}
+
+local args23 = {
+    [1] = workspace:WaitForChild("slimes"):WaitForChild("Acid"),
+    [2] = 12000
+}
+
+local args24 = {
+    [1] = workspace:WaitForChild("slimes"):WaitForChild("Fire"),
+    [2] = 12000
+}
+
+local args25 = {
+    [1] = workspace:WaitForChild("slimes"):WaitForChild("Normal"),
+    [2] = 12000
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("shared"):WaitForChild("remotes"):WaitForChild("Igiveup"):FireServer(unpack(args1))
+game:GetService("ReplicatedStorage"):WaitForChild("shared"):WaitForChild("remotes"):WaitForChild("Igiveup"):FireServer(unpack(args2))
+game:GetService("ReplicatedStorage"):WaitForChild("shared"):WaitForChild("remotes"):WaitForChild("Igiveup"):FireServer(unpack(args3))
+game:GetService("ReplicatedStorage"):WaitForChild("shared"):WaitForChild("remotes"):WaitForChild("Igiveup"):FireServer(unpack(args4))
+game:GetService("ReplicatedStorage"):WaitForChild("shared"):WaitForChild("remotes"):WaitForChild("Igiveup"):FireServer(unpack(args5))
+game:GetService("ReplicatedStorage"):WaitForChild("shared"):WaitForChild("remotes"):WaitForChild("Igiveup"):FireServer(unpack(args6))
+game:GetService("ReplicatedStorage"):WaitForChild("shared"):WaitForChild("remotes"):WaitForChild("Igiveup"):FireServer(unpack(args7))
+game:GetService("ReplicatedStorage"):WaitForChild("shared"):WaitForChild("remotes"):WaitForChild("Igiveup"):FireServer(unpack(args8))
+game:GetService("ReplicatedStorage"):WaitForChild("shared"):WaitForChild("remotes"):WaitForChild("Igiveup"):FireServer(unpack(args9))
+game:GetService("ReplicatedStorage"):WaitForChild("shared"):WaitForChild("remotes"):WaitForChild("Igiveup"):FireServer(unpack(args10))
+game:GetService("ReplicatedStorage"):WaitForChild("shared"):WaitForChild("remotes"):WaitForChild("Igiveup"):FireServer(unpack(args11))
+game:GetService("ReplicatedStorage"):WaitForChild("shared"):WaitForChild("remotes"):WaitForChild("Igiveup"):FireServer(unpack(args12))
+game:GetService("ReplicatedStorage"):WaitForChild("shared"):WaitForChild("remotes"):WaitForChild("Igiveup"):FireServer(unpack(args13))
+game:GetService("ReplicatedStorage"):WaitForChild("shared"):WaitForChild("remotes"):WaitForChild("Igiveup"):FireServer(unpack(args14))
+game:GetService("ReplicatedStorage"):WaitForChild("shared"):WaitForChild("remotes"):WaitForChild("Igiveup"):FireServer(unpack(args15))
+game:GetService("ReplicatedStorage"):WaitForChild("shared"):WaitForChild("remotes"):WaitForChild("Igiveup"):FireServer(unpack(args16))
+game:GetService("ReplicatedStorage"):WaitForChild("shared"):WaitForChild("remotes"):WaitForChild("Igiveup"):FireServer(unpack(args17))
+game:GetService("ReplicatedStorage"):WaitForChild("shared"):WaitForChild("remotes"):WaitForChild("Igiveup"):FireServer(unpack(args18))
+game:GetService("ReplicatedStorage"):WaitForChild("shared"):WaitForChild("remotes"):WaitForChild("Igiveup"):FireServer(unpack(args19))
+game:GetService("ReplicatedStorage"):WaitForChild("shared"):WaitForChild("remotes"):WaitForChild("Igiveup"):FireServer(unpack(args20))
+game:GetService("ReplicatedStorage"):WaitForChild("shared"):WaitForChild("remotes"):WaitForChild("Igiveup"):FireServer(unpack(args21))
+game:GetService("ReplicatedStorage"):WaitForChild("shared"):WaitForChild("remotes"):WaitForChild("Igiveup"):FireServer(unpack(args22))
+game:GetService("ReplicatedStorage"):WaitForChild("shared"):WaitForChild("remotes"):WaitForChild("Igiveup"):FireServer(unpack(args23))
+game:GetService("ReplicatedStorage"):WaitForChild("shared"):WaitForChild("remotes"):WaitForChild("Igiveup"):FireServer(unpack(args24))
+game:GetService("ReplicatedStorage"):WaitForChild("shared"):WaitForChild("remotes"):WaitForChild("Igiveup"):FireServer(unpack(args25))
